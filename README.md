@@ -1,18 +1,18 @@
 # byte-forge
 
-> *O lugar onde o código ganha alma.*
+> Nosso único limite é a nossa imaginação.
 
 ---
 
-## 🔥 O que rola aqui?
+## O que rola aqui?
 
 Esse é o meu **playground de código**. Aqui eu:
-- ✅ Testo idéias malucas
-- ✅ Quebro coisas de propósito (para aprender)
-- ✅ Guardo snippets úteis
-- ✅ Deixo projetos em andamento
+- Testo idéias malucas
+- Quebro coisas de propósito (para aprender)
+- Guardo snippets úteis
+- Deixo projetos em andamento
 
-## 🛠️ Como usar?
+## Como usar?
 
 **Clone e brinque:**
 ```bash
@@ -22,9 +22,7 @@ cd byte-forge
 
 **Ou apenas explore** os projetos existentes.
 
-## 💡 Regra única:
+## Regra única:
 > *Se funcionar, ótimo. Se não funcionar, melhor ainda (aprendemos).*
 
 ---
-
-> "Código é como ferro: quanto mais você bate, melhor fica."
