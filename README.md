@@ -24,5 +24,3 @@ cd byte-forge
 
 ## Regra única:
 > *Se funcionar, ótimo. Se não funcionar, melhor ainda (aprendemos).*
-
----
