@@ -22,6 +22,8 @@ cd byte-forge
 
 **Ou apenas explore** os projetos existentes.
 
-## A Officina
+## O Laboratório
 
-Acesse o playground de projetos pelo navegador: [https://greenbalding.github.io/byte-forge/](https://greenbalding.github.io/byte-forge/)
+Acesse o playground de projetos pelo navegador:
+- GitHub Pages: [https://greenbalding.github.io/byte-forge/](https://greenbalding.github.io/byte-forge/)
+- Se o Pages demorar para atualizar, use o raw.githack: [https://raw.githack.com/greenBalding/byte-forge/main/index.html](https://raw.githack.com/greenBalding/byte-forge/main/index.html)
