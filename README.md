@@ -22,7 +22,6 @@ cd byte-forge
 
 **Ou apenas explore** os projetos existentes.
 
-## 🌐 Versão Web
+## A Officina
 
-**Gerador de Senhas:** [https://greenbalding.github.io/byte-forge/](https://greenbalding.github.io/byte-forge/)
-*(Acesse diretamente pelo navegador!)*
+Acesse o playground de projetos pelo navegador: [https://greenbalding.github.io/byte-forge/](https://greenbalding.github.io/byte-forge/)
