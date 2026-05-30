@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0">
+    <title>Gerador de Senhas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Gerador de Senhas</h1>
+        <p>Toque para criar senhas seguras</p>
+        
+        <div class="password-display">
+            <div id="password" class="password-box" onclick="copyPassword()"></div>
+            <div class="tap-hint">Toque para copiar</div>
+        </div>
+        
+        <div class="slider-container">
+            <span class="slider-label">Tamanho: <span id="length-value">12</span></span>
+            <input type="range" id="length" min="8" max="32" value="12" class="slider">
+        </div>
+        
+        <div class="toggle-group">
+            <button id="uppercase" class="toggle active" onclick="toggleOption(this, 'uppercase')">A-Z</button>
+            <button id="numbers" class="toggle active" onclick="toggleOption(this, 'numbers')">0-9</button>
+            <button id="symbols" class="toggle active" onclick="toggleOption(this, 'symbols')">!@#</button>
+        </div>
+        
+        <button onclick="generatePassword()" class="generate-btn">Gerar Senha</button>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
