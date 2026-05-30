@@ -21,3 +21,8 @@ cd byte-forge
 ```
 
 **Ou apenas explore** os projetos existentes.
+
+## 🌐 Versão Web
+
+**Gerador de Senhas:** [https://greenbalding.github.io/byte-forge/](https://greenbalding.github.io/byte-forge/)
+*(Acesse diretamente pelo navegador!)*
